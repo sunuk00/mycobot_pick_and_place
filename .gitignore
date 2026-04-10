@@ -1,22 +1,26 @@
-# ROS2 / colcon build artifacts
-build/
-install/
-log/
+# ROS2 / colcon workspace artifacts (root)
+/build/
+/install/
+/log/
+/.colcon/
 
-# Colcon metadata
-.colcon/
+# CMake / build-system outputs
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+Makefile
 
-# Python cache and compiled files
+# Python cache / packaging
 __pycache__/
 *.py[cod]
 *$py.class
-
-# Python packaging
 *.egg-info/
 .eggs/
 dist/
+build/
 
-# Test and tooling caches
+# Test / tooling caches
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
@@ -28,7 +32,7 @@ htmlcov/
 venv/
 env/
 
-# IDE / editor files
+# IDE / editor
 .vscode/
 .idea/
 *.code-workspace
@@ -37,7 +41,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# Logs and temp files
+# Logs / temp / swap
 *.log
 *.tmp
 *.swp
