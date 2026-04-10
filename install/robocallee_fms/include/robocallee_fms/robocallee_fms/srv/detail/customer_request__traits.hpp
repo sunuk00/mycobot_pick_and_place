@@ -1,1 +1,0 @@
-/home/jetcobot/sun_ws/ros2_ws/build/robocallee_fms/rosidl_generator_cpp/robocallee_fms/srv/detail/customer_request__traits.hpp

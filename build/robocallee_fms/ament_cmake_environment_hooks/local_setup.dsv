@@ -1,4 +1,0 @@
-source;share/robocallee_fms/environment/ament_prefix_path.sh
-source;share/robocallee_fms/environment/library_path.sh
-source;share/robocallee_fms/environment/path.sh
-source;share/robocallee_fms/environment/pythonpath.sh

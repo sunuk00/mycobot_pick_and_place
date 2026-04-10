@@ -1,6 +1,0 @@
-string requester
-string action
----
-int32 wait_list
-string action
-bool success

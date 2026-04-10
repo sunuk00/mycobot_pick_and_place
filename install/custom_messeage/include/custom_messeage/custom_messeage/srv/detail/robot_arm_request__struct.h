@@ -1,1 +1,0 @@
-/home/jetcobot/sun_ws/ros2_ws/build/custom_messeage/rosidl_generator_c/custom_messeage/srv/detail/robot_arm_request__struct.h

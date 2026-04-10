@@ -1,1 +1,0 @@
-/home/jetcobot/sun_ws/ros2_ws/build/robocallee_fms/rosidl_typesupport_fastrtps_cpp/robocallee_fms/msg/detail/aruco_pose_array__rosidl_typesupport_fastrtps_cpp.hpp

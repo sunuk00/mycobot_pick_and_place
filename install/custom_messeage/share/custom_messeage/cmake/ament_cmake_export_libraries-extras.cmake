@@ -1,1 +1,0 @@
-/home/jetcobot/sun_ws/ros2_ws/build/custom_messeage/ament_cmake_export_libraries/ament_cmake_export_libraries-extras.cmake

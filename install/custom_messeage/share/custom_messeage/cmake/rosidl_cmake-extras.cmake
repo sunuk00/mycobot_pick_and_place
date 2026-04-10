@@ -1,1 +1,0 @@
-/home/jetcobot/sun_ws/ros2_ws/build/custom_messeage/rosidl_cmake/rosidl_cmake-extras.cmake

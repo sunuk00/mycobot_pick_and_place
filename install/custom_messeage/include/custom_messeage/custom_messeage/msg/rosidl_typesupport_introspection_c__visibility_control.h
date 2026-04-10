@@ -1,1 +1,0 @@
-/home/jetcobot/sun_ws/ros2_ws/build/custom_messeage/rosidl_typesupport_introspection_c/custom_messeage/msg/rosidl_typesupport_introspection_c__visibility_control.h

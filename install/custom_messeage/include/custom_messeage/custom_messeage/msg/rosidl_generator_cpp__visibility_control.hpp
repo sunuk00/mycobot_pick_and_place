@@ -1,1 +1,0 @@
-/home/jetcobot/sun_ws/ros2_ws/build/custom_messeage/rosidl_generator_cpp/custom_messeage/msg/rosidl_generator_cpp__visibility_control.hpp

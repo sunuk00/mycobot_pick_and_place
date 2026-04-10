@@ -1,1 +1,0 @@
-/home/jetcobot/sun_ws/ros2_ws/build/robocallee_fms/ament_cmake_environment_hooks/local_setup.bash

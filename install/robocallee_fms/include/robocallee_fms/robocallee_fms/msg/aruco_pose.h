@@ -1,1 +1,0 @@
-/home/jetcobot/sun_ws/ros2_ws/build/robocallee_fms/rosidl_generator_c/robocallee_fms/msg/aruco_pose.h
