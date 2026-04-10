@@ -1,8 +1,8 @@
 # ROS2 / colcon workspace artifacts (root)
-/build/
-/install/
-/log/
-/.colcon/
+build/
+install/
+log/
+.colcon/
 
 # CMake / build-system outputs
 CMakeCache.txt
