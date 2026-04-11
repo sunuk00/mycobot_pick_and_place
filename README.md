@@ -2,6 +2,8 @@ mycobot280 - pick and place with ROS2
 
 Detect AprilTags using the camera mounted on the robot arm.
 
+**에드인에듀, ROS2와 AI를 활용한 자율주행/로봇팔 부트캠프**에서 진행한 프로젝트로, MyCobot 280 로봇팔을 이용하여 AprilTags를 인식하고, 이를 기반으로 로봇팔이 물체를 집어 옮기는 Pick and Place 작업을 수행하는 프로젝트이다.
+
 # Solve PnP를 이용하여 카메라 좌표계에서 태그의 위치를 계산
 `solvePnP`는 OpenCV 라이브러리에서 제공하는 함수로, 3D 객체의 좌표와 2D 이미지 상의 대응점을 이용하여 카메라의 위치와 방향을 계산하는 알고리즘이다. 
 
