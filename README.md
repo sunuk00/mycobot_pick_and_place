@@ -106,6 +106,8 @@ Forward Kinematics를 이용하여 그리퍼 좌표계에서 베이스 좌표계
 <br>
 최종적으로, AprilTags에서 인식된 태그의 위치를 베이스 좌표계로 변환하기 위해 다음과 같은 수식을 사용한다:
 
+<br>
+
 $$P_{base} = T_{gripper}^{base} \cdot T_{camera}^{gripper} \cdot T_{tag}^{camera} \cdot P_{tag}$$
 
 * $T_{tag}^{camera}$ : solvePnP 결과값
