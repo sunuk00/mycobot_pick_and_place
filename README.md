@@ -1,5 +1,7 @@
 mycobot280 - pick and place with ROS2
 
+Team Link: https://github.com/addinedu-roscamp-5th/roscamp-repo-3.git
+
 Detect AprilTags using the camera mounted on the robot arm.
 
 **에드인에듀, ROS2와 AI를 활용한 자율주행/로봇팔 부트캠프**에서 진행한 프로젝트로, MyCobot 280 로봇팔을 이용하여 AprilTags를 인식하고, 이를 기반으로 로봇팔이 물체를 집어 옮기는 Pick and Place 작업을 수행하는 프로젝트이다.
